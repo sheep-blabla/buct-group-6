@@ -1,3 +1,14 @@
+"""
+该文件用于获取ACDC网站的用户信息
+用户信息包括:
+    学号
+    姓名
+    班级
+    codeforces_id
+    atcoder_id
+
+获取的用户信息保存路径为"./csv/users.csv"
+"""
 import requests
 import csv
 
@@ -56,14 +67,14 @@ for student in students_at:
         users[stuNo].at_id.append(at_id)
 
 
-print(len(users))
+# 用户字典的键值
 user_nums = users.items()
-print(user_nums)
-
 #将数据类型写入csv文件
-with open('./csv/users.csv','w',newline='') as f:
+with open('./csv/users.csv','w',newline='',encoding='gbk') as f:
     writer = csv.writer(f)
     # 先写入columns_name
     writer.writerow(["stuNo", "name", "class_name","cf_id","at_id"])
     for user in user_nums:
         writer.writerow([user[1].stuNO,user[1].stuName,user[1].classname,user[1].cf_id,user[1].at_id])
+
+print(f"共写入了{len(users)}行数据")
