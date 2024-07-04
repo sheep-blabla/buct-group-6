@@ -12,3 +12,18 @@
 ![alt text](image-1.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+
+2024.7.3
+学习Echarts
+完成首页学生信息表的ratingHistor可视化
+![alt text](image-5.png)
+
+2024.7.4
+完成codeforce 题库页面信息展示，分页，搜索功能
+![alt text](image-6.png)
+完成最近比赛页面信息展示，分页，搜索功能
+![alt text](image-7.png)
+完成比赛反馈页面信息展示，分页，搜索，为每一个比赛绑定填写问卷/查看结果选项
+[alt text](image-8.png)
+糊出竞赛日历表结构，暂未填入比赛数据
+![alt text](image-9.png)
