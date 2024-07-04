@@ -85,20 +85,19 @@ for user in all_user:
     stuNo = user['stuNo']
     # 只在原有数据结构上添加属性，不添加成员
     if stuNo in users:
-        grade = user['year']
-        school_id = user['school']
+        grade = student['year']
+        school_id = student['school']
         users[stuNo].grade = grade
         users[stuNo].school = users[stuNo].schools[school_id]
 
 # 用户字典的键值
-user_nums = list(users.items())
+user_nums = users.items()
 #将数据类型写入csv文件
-with open('./csv/users.csv','w',newline='',encoding='utf-8-sig') as f:
-    writer = csv.writer(f,quoting=csv.QUOTE_NONE)
+with open('./csv/users.csv','w',newline='',encoding='gbk') as f:
+    writer = csv.writer(f)
     # 先写入columns_name
-    writer.writerow(["stuNo","school","grade","name","class_name","cf_id","at_id"])
-    for user in user_nums[:200]:
-        # cf_id与at_id 进行了一些后处理,多个id用;号隔开
-        writer.writerow([user[1].stuNO,user[1].school,user[1].grade,user[1].stuName,user[1].classname,str(user[1].cf_id)[1:-2].replace(" ","").replace("'",'').replace(",",";"),str(user[1].at_id)[1:-2].replace(" ","").replace("'",'').replace(",",";")])
+    writer.writerow(["stuNo","school","grade","name", "class_name","cf_id","at_id"])
+    for user in user_nums:
+        writer.writerow([user[1].stuNO,user[1].school,user[1].grade,user[1].stuName,user[1].classname,user[1].cf_id,user[1].at_id])
 
 print(f"共写入了{len(users)}行数据")

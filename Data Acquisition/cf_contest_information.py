@@ -13,7 +13,7 @@ import time
     duration_time
     end_time
     
-获取的用户信息保存路径为"./csv/contests_info.csv"
+获取的用户信息保存路径为"./csv/contests.csv"
 
 """
 #比赛信息数据结构
@@ -129,7 +129,7 @@ def overflow_solving(end_time):
 
     return end_time
 
-#时间戳转换
+#时间转换
 def get_start_time(timestamp):
     data = datetime.utcfromtimestamp(timestamp)
     year = data.year
