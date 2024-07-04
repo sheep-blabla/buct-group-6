@@ -106,7 +106,7 @@
 1973,Codeforces Round 945 (Div. 2),D,"Cat, Fox and Maximum Array Split","['brute force', 'interactive', 'math']",2024.5.17 14:35,2024.5.17 16:35,https://codeforces.com/contest/1973/problem/D
 1973,Codeforces Round 945 (Div. 2),E,"Cat, Fox and Swaps ","['graphs', 'math', 'sortings']",2024.5.17 14:35,2024.5.17 16:35,https://codeforces.com/contest/1973/problem/E
 1973,Codeforces Round 945 (Div. 2),F,Maximum GCD Sum Queries,"['bitmasks', 'brute force', 'dp', 'implementation', 'number theory']",2024.5.17 14:35,2024.5.17 16:35,https://codeforces.com/contest/1973/problem/F
-1958,Kotlin Heroes: Episode 10,A,2001/3/5,"['*special', 'dp']",2024.5.13 14:35,2024.5.13 17:5,https://codeforces.com/contest/1958/problem/A
+1958,Kotlin Heroes: Episode 10,A,1-3-5,"['*special', 'dp']",2024.5.13 14:35,2024.5.13 17:5,https://codeforces.com/contest/1958/problem/A
 1958,Kotlin Heroes: Episode 10,B,Clock in the Pool,"['*special', 'math']",2024.5.13 14:35,2024.5.13 17:5,https://codeforces.com/contest/1958/problem/B
 1958,Kotlin Heroes: Episode 10,C,Firewood,['*special'],2024.5.13 14:35,2024.5.13 17:5,https://codeforces.com/contest/1958/problem/C
 1958,Kotlin Heroes: Episode 10,D,Staircase,['*special'],2024.5.13 14:35,2024.5.13 17:5,https://codeforces.com/contest/1958/problem/D
@@ -2518,7 +2518,7 @@
 1603,Codeforces Round 752 (Div. 1),C,Extreme Extension,"['dp', 'greedy', 'math', 'number theory']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1603/problem/C
 1603,Codeforces Round 752 (Div. 1),D,Artistic Partition,"['divide and conquer', 'dp', 'number theory']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1603/problem/D
 1603,Codeforces Round 752 (Div. 1),E,A Perfect Problem,"['combinatorics', 'dp', 'math']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1603/problem/E
-1603,Codeforces Round 752 (Div. 1),F,18-Oct-17,"['combinatorics', 'dp', 'implementation', 'math']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1603/problem/F
+1603,Codeforces Round 752 (Div. 1),F,"October 18, 2017","['combinatorics', 'dp', 'implementation', 'math']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1603/problem/F
 1604,Codeforces Round 752 (Div. 2),A,Era,['greedy'],2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1604/problem/A
 1604,Codeforces Round 752 (Div. 2),B,XOR Specia-LIS-t,[],2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1604/problem/B
 1604,Codeforces Round 752 (Div. 2),C,Di-visible Confusion,"['brute force', 'greedy', 'math', 'number theory']",2021.10.30 14:35,2021.10.30 16:35,https://codeforces.com/contest/1604/problem/C
@@ -5985,7 +5985,7 @@
 1042,Codeforces Round 510 (Div. 2),D,Petya and Array,"['data structures', 'divide and conquer', 'two pointers']",2018.9.17 8:5,2018.9.17 10:5,https://codeforces.com/contest/1042/problem/D
 1042,Codeforces Round 510 (Div. 2),E,Vasya and Magic Matrix,"['dp', 'math', 'probabilities']",2018.9.17 8:5,2018.9.17 10:5,https://codeforces.com/contest/1042/problem/E
 1042,Codeforces Round 510 (Div. 2),F,Leaf Sets,"['data structures', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'sortings', 'trees']",2018.9.17 8:5,2018.9.17 10:5,https://codeforces.com/contest/1042/problem/F
-1041,Codeforces Round 509 (Div. 2),A,Heist,"['greedy', 'implementation', 'sortings']",2018.9.16 10:35,2018.9.16 12:35,https://codeforces.com/contest/1041/problem/A
+ 1041,Codeforces Round 509 (Div. 2),A,Heist,"['greedy', 'implementation', 'sortings']",2018.9.16 10:35,2018.9.16 12:35,https://codeforces.com/contest/1041/problem/A
 1041,Codeforces Round 509 (Div. 2),B,Buying a TV Set,['math'],2018.9.16 10:35,2018.9.16 12:35,https://codeforces.com/contest/1041/problem/B
 1041,Codeforces Round 509 (Div. 2),C,Coffee Break,"['binary search', 'data structures', 'greedy', 'two pointers']",2018.9.16 10:35,2018.9.16 12:35,https://codeforces.com/contest/1041/problem/C
 1041,Codeforces Round 509 (Div. 2),D,Glider,"['binary search', 'data structures', 'two pointers']",2018.9.16 10:35,2018.9.16 12:35,https://codeforces.com/contest/1041/problem/D
