@@ -160,7 +160,7 @@ public class GetCfData {
             Integer points = problemJson.getInteger("points");
             Integer rating = problemJson.getInteger("rating");
             JSONArray tagsArray = problemJson.getJSONArray("tags");
-            String tags = tagsArray.toJSONString();
+            String tags = tagsArray.getString(0);//只取第一个属性
 
             // 判断是否为空
             int ratingValue = -1;

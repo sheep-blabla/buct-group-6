@@ -29,7 +29,7 @@ public class Main {
                             .pathInfo(Collections.singletonMap(OutputFile.xml, projectPath+"/src/main/java/com/buct/spider/mapper")); // 设置mapperXml生成路径
                 })
                 .strategyConfig(builder -> {
-                    builder.addInclude("cfcontest")
+                    builder.addInclude("accontest")
                             .entityBuilder()
                             .enableLombok()
                             .idType(IdType.INPUT)

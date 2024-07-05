@@ -1,7 +1,6 @@
 package com.buct.spider.config;
 
-import com.buct.spider.atcoder.ATPipeline;
-import com.buct.spider.atcoder.ATProcess;
+import com.buct.spider.atcoder.*;
 import com.buct.spider.codeforces.GetCfData;
 import com.buct.spider.entity.Student;
 import com.buct.spider.mapper.StudentMapper;
@@ -24,11 +23,29 @@ public class ScheduleConfig {
     private StudentMapper studentMapper;
     @Resource
     private GetCfData getCfData;
+    private AcContestProcess acContestProcess;
+    @Resource
+    private AcContestPipeline acContestPipeline;
+    @Resource
+    private AcSubmissionPipeline acSubmissionPipeline;
+
+//    @Scheduled(fixedRate = 1000*60*60*24*7)   //定时器定义，设置执行时间
+
+    //atcoder contest
+    private void AcContestProcess(){
+        Spider.create(acContestProcess)
+                .addUrl("https://atcoder.jp/contests/")
+                .addUrl("https://atcoder.jp/contests/archive")
+                .addPipeline(acContestPipeline)
+                .run();
+    }
+
 
     @Scheduled(fixedRate = 1000*60*60*24*7)   //定时器定义，设置执行时间
     private void AtProcess() {
+
         List<Student> students = studentMapper.selectList(null);
-        for (int i = 0; i < students.size(); i++) {
+        for (int i = 0; i < 1/*students.size()*/; i++) {
             String id = students.get(i).getStuAcId();
             if(id!=null && !id.equals("")){
                 Spider.create(atProcess)

@@ -1,0 +1,348 @@
+<!doctype html>
+<html> 
+ <head> 
+  <title>t2021210481's Competition History - AtCoder</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="Content-Language" content="en"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta name="google-site-verification" content="nXGC_JxO0yoP1qBzMnYD_xgufO6leSLw1kyNo2HZltM"> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RC512FD18N"></script> 
+  <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-RC512FD18N');
+	</script> 
+  <meta name="description" content="AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online."> 
+  <meta name="author" content="AtCoder Inc."> 
+  <meta property="og:site_name" content="AtCoder"> 
+  <meta property="og:title" content="t2021210481's Competition History - AtCoder"> 
+  <meta property="og:description" content="AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online."> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://atcoder.jp/users/t2021210481/history"> 
+  <meta property="og:image" content="https://img.atcoder.jp/assets/atcoder.png"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:site" content="@atcoder"> 
+  <meta property="twitter:title" content="t2021210481's Competition History - AtCoder"> 
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"> 
+  <link rel="stylesheet" type="text/css" href="//img.atcoder.jp/public/6a2e924/css/bootstrap.min.css"> 
+  <link rel="stylesheet" type="text/css" href="//img.atcoder.jp/public/6a2e924/css/base.css"> 
+  <link rel="shortcut icon" type="image/png" href="//img.atcoder.jp/assets/favicon.png"> 
+  <link rel="apple-touch-icon" href="//img.atcoder.jp/assets/atcoder.png"> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/lib/jquery-1.9.1.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/lib/bootstrap.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/cdn/js.cookie.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/cdn/moment.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/cdn/moment_js-ja.js"></script> 
+  <script>
+		var LANG = "en";
+		var userScreenName = "";
+		var csrfToken = "3AmdQhhORqsAOZwK/Y+oHs1cIynIUhD1QNPjSZ1+dL0="
+	</script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/utils.js"></script> 
+  <link rel="stylesheet" type="text/css" href="//img.atcoder.jp/public/6a2e924/css/cdn/dataTables.bootstrap.min.css"> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/cdn/jquery.dataTables.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/cdn/dataTables.bootstrap.min.js"></script> 
+  <script src="//img.atcoder.jp/public/6a2e924/js/base.js"></script> 
+ </head> 
+ <body> 
+  <script type="text/javascript">
+	var __pParams = __pParams || [];
+	__pParams.push({client_id: '468', c_1: 'atcodercontest', c_2: 'ClientSite'});
+</script> 
+  <script type="text/javascript" src="https://cdn.d2-apps.net/js/tr.js" async></script> 
+  <div id="main-div" class="float-container"> 
+   <nav class="navbar navbar-inverse navbar-fixed-top"> 
+    <div class="container-fluid"> 
+     <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"> <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span> </button> <a class="navbar-brand" href="/"></a> 
+     </div> 
+     <div class="collapse navbar-collapse" id="navbar-collapse"> 
+      <ul class="nav navbar-nav"> 
+       <li><a href="/home">Home</a></li> 
+       <li><a href="/contests/">Contest</a></li> 
+       <li><a href="/ranking">Ranking</a></li> 
+      </ul> 
+      <ul class="nav navbar-nav navbar-right"> 
+       <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"> <img src="//img.atcoder.jp/assets/top/img/flag-lang/en.png"> English <span class="caret"></span> </a> 
+        <ul class="dropdown-menu"> 
+         <li><a href="/users/t2021210481/history?lang=ja"><img src="//img.atcoder.jp/assets/top/img/flag-lang/ja.png"> 日本語</a></li> 
+         <li><a href="/users/t2021210481/history?lang=en"><img src="//img.atcoder.jp/assets/top/img/flag-lang/en.png"> English</a></li> 
+        </ul> </li> 
+       <li><a href="/register?continue=https%3A%2F%2Fatcoder.jp%2Fusers%2Ft2021210481%2Fhistory">Sign Up</a></li> 
+       <li><a href="/login?continue=https%3A%2F%2Fatcoder.jp%2Fusers%2Ft2021210481%2Fhistory">Sign In</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </nav> 
+   <form method="POST" name="form_logout" action="/logout?continue=https%3A%2F%2Fatcoder.jp%2Fusers%2Ft2021210481%2Fhistory"> 
+    <input type="hidden" name="csrf_token" value="3AmdQhhORqsAOZwK/Y+oHs1cIynIUhD1QNPjSZ1+dL0="> 
+   </form> 
+   <div id="main-container" class="container" style=""> 
+    <div class="row"> 
+     <div class="col-sm-12"> 
+      <ul id="user-nav-tabs" class="nav nav-tabs"> 
+       <li><a href="/users/t2021210481"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Profile</a></li> 
+       <li class="active"><a href="/users/t2021210481/history"><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Competition History</a></li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12"> 
+      <h2><img src="//img.atcoder.jp/assets/user/user-brown-1.png" class="user-rating-stage-l"><a href="/users/t2021210481" class="username"><span class="user-brown">t2021210481</span></a>'s Competition History</h2> 
+      <ul id="user-nav-tabs" class="nav nav-tabs"> 
+       <li class="active"><a href="/users/t2021210481/history?contestType=algo">Algorithm</a></li> 
+       <li class=""><a href="/users/t2021210481/history?contestType=heuristic">Heuristic</a></li> 
+      </ul> 
+      <div class="checkbox"> <label><input type="checkbox" id="rated_only"> Rated Only</label> 
+      </div> 
+      <div class="table-responsive"> 
+       <table id="history" class="table table-default table-striped table-hover table-condensed table-bordered"> 
+        <thead> 
+         <tr style="word-break:keep-all;"> 
+          <th width="18%" class="text-center">Date</th> 
+          <th class="text-center">Contest</th> 
+          <th width="8%" class="text-center">Rank</th> 
+          <th width="15%" class="text-center">Performance</th> 
+          <th width="10%" class="text-center">New Rating</th> 
+          <th width="8%" class="text-center">Diff</th> 
+          <th width="1%" class="text-center" data-orderable="false"></th> 
+         </tr> 
+        </thead> 
+        <tbody> 
+         <tr class="text-center"> 
+          <td data-order="2022/05/28 22:40:00"><time class="fixtime fixtime-full">2022-05-28 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc253">NOMURA Programming Contest 2022（AtCoder Beginner Contest 253）</a> <a href="/contests/abc253/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc253/standings?watching=t2021210481">7180</a></td> 
+          <td><span class="user-gray">112</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-1.png" class="user-rating-stage-m"><span class="user-gray">6</span></td> 
+          <td data-search="[RATED]" data-order="-9999">-</td> 
+          <td><a href="/users/t2021210481/history/share/abc253"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/06/04 22:40:00"><time class="fixtime fixtime-full">2022-06-04 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc254">AtCoder Beginner Contest 254</a> <a href="/contests/abc254/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc254/standings?watching=t2021210481">5808</a></td> 
+          <td><span class="user-gray">339</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-1.png" class="user-rating-stage-m"><span class="user-gray">33</span></td> 
+          <td data-search="[RATED]" data-order="27">+27</td> 
+          <td><a href="/users/t2021210481/history/share/abc254"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/06/11 22:40:00"><time class="fixtime fixtime-full">2022-06-11 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc255">Aising Programming Contest 2022（AtCoder Beginner Contest 255）</a> <a href="/contests/abc255/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc255/standings?watching=t2021210481">4191</a></td> 
+          <td><span class="user-brown">603</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-1.png" class="user-rating-stage-m"><span class="user-gray">87</span></td> 
+          <td data-search="[RATED]" data-order="54">+54</td> 
+          <td><a href="/users/t2021210481/history/share/abc255"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/06/18 22:40:00"><time class="fixtime fixtime-full">2022-06-18 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc256">Tokio Marine &amp; Nichido Fire Insurance Programming Contest 2022（AtCoder Beginner Contest 256)</a> <a href="/contests/abc256/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc256/standings?watching=t2021210481">4673</a></td> 
+          <td><span class="user-brown">445</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-2.png" class="user-rating-stage-m"><span class="user-gray">127</span></td> 
+          <td data-search="[RATED]" data-order="40">+40</td> 
+          <td><a href="/users/t2021210481/history/share/abc256"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/06/25 22:40:00"><time class="fixtime fixtime-full">2022-06-25 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc257">NS Solutions Corporation Programming Contest 2022（AtCoder Beginner Contest 257）</a> <a href="/contests/abc257/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc257/standings?watching=t2021210481">6494</a></td> 
+          <td><span class="user-gray">138</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-2.png" class="user-rating-stage-m"><span class="user-gray">126</span></td> 
+          <td data-search="[RATED]" data-order="-1">-1</td> 
+          <td><a href="/users/t2021210481/history/share/abc257"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/07/02 22:40:00"><time class="fixtime fixtime-full">2022-07-02 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc258">AtCoder Beginner Contest 258</a> <a href="/contests/abc258/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc258/standings?watching=t2021210481">4890</a></td> 
+          <td><span class="user-brown">567</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-2.png" class="user-rating-stage-m"><span class="user-gray">172</span></td> 
+          <td data-search="[RATED]" data-order="46">+46</td> 
+          <td><a href="/users/t2021210481/history/share/abc258"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/07/09 22:40:00"><time class="fixtime fixtime-full">2022-07-09 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc259">AtCoder Beginner Contest 259</a> <a href="/contests/abc259/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc259/standings?watching=t2021210481">6177</a></td> 
+          <td><span class="user-gray">247</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-2.png" class="user-rating-stage-m"><span class="user-gray">180</span></td> 
+          <td data-search="[RATED]" data-order="8">+8</td> 
+          <td><a href="/users/t2021210481/history/share/abc259"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/07/16 23:00:00"><time class="fixtime fixtime-full">2022-07-16 23:00:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/arc144">AtCoder Regular Contest 144</a> <a href="/contests/arc144/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/arc144/standings?watching=t2021210481">1895</a></td> 
+          <td><span class="user-green">1023</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-3.png" class="user-rating-stage-m"><span class="user-gray">291</span></td> 
+          <td data-search="[RATED]" data-order="111">+111</td> 
+          <td><a href="/users/t2021210481/history/share/arc144"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/07/23 22:40:00"><time class="fixtime fixtime-full">2022-07-23 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc261">AtCoder Beginner Contest 261</a> <a href="/contests/abc261/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc261/standings?watching=t2021210481">5265</a></td> 
+          <td><span class="user-gray">387</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">301</span></td> 
+          <td data-search="[RATED]" data-order="10">+10</td> 
+          <td><a href="/users/t2021210481/history/share/abc261"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/07/30 23:00:00"><time class="fixtime fixtime-full">2022-07-30 23:00:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/arc145">AtCoder Regular Contest 145</a> <a href="/contests/arc145/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/arc145/standings?watching=t2021210481">2132</a></td> 
+          <td><span class="user-green">890</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">386</span></td> 
+          <td data-search="[RATED]" data-order="85">+85</td> 
+          <td><a href="/users/t2021210481/history/share/arc145"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/08/06 22:40:00"><time class="fixtime fixtime-full">2022-08-06 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc263">LINE Verda Programming Contest（AtCoder Beginner Contest 263）</a> <a href="/contests/abc263/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc263/standings?watching=t2021210481">4440</a></td> 
+          <td><span class="user-brown">480</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">397</span></td> 
+          <td data-search="[RATED]" data-order="11">+11</td> 
+          <td><a href="/users/t2021210481/history/share/abc263"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/09/03 22:40:00"><time class="fixtime fixtime-full">2022-09-03 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc267">NEC Programming Contest 2022 (AtCoder Beginner Contest 267)</a> <a href="/contests/abc267/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc267/standings?watching=t2021210481">6891</a></td> 
+          <td><span class="user-gray">128</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">351</span></td> 
+          <td data-search="[RATED]" data-order="-46">-46</td> 
+          <td><a href="/users/t2021210481/history/share/abc267"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/09/17 22:40:00"><time class="fixtime fixtime-full">2022-09-17 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc269">UNICORN Programming Contest 2022(AtCoder Beginner Contest 269)</a> <a href="/contests/abc269/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc269/standings?watching=t2021210481">5052</a></td> 
+          <td><span class="user-gray">286</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">341</span></td> 
+          <td data-search="[RATED]" data-order="-10">-10</td> 
+          <td><a href="/users/t2021210481/history/share/abc269"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/09/24 22:40:00"><time class="fixtime fixtime-full">2022-09-24 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc270">TOYOTA MOTOR CORPORATION Programming Contest 2022(AtCoder Beginner Contest 270)</a> <a href="/contests/abc270/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc270/standings?watching=t2021210481">5086</a></td> 
+          <td><span class="user-gray">334</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">340</span></td> 
+          <td data-search="[RATED]" data-order="-1">-1</td> 
+          <td><a href="/users/t2021210481/history/share/abc270"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/10/01 22:40:00"><time class="fixtime fixtime-full">2022-10-01 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc271">KYOCERA Programming Contest 2022（AtCoder Beginner Contest 271）</a> <a href="/contests/abc271/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc271/standings?watching=t2021210481">4552</a></td> 
+          <td><span class="user-brown">475</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">354</span></td> 
+          <td data-search="[RATED]" data-order="14">+14</td> 
+          <td><a href="/users/t2021210481/history/share/abc271"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/10/08 22:40:00"><time class="fixtime fixtime-full">2022-10-08 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc272">AtCoder Beginner Contest 272</a> <a href="/contests/abc272/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc272/standings?watching=t2021210481">5377</a></td> 
+          <td><span class="user-gray">286</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">346</span></td> 
+          <td data-search="[RATED]" data-order="-8">-8</td> 
+          <td><a href="/users/t2021210481/history/share/abc272"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/10/15 22:40:00"><time class="fixtime fixtime-full">2022-10-15 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc273">Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)</a> <a href="/contests/abc273/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc273/standings?watching=t2021210481">5119</a></td> 
+          <td><span class="user-gray">278</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">337</span></td> 
+          <td data-search="[RATED]" data-order="-9">-9</td> 
+          <td><a href="/users/t2021210481/history/share/abc273"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/10/22 22:40:00"><time class="fixtime fixtime-full">2022-10-22 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc274">キーエンスプログラミングコンテスト2022（AtCoder Beginner Contest 274）</a> <a href="/contests/abc274/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc274/standings?watching=t2021210481">6053</a></td> 
+          <td><span class="user-gray">130</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">307</span></td> 
+          <td data-search="[RATED]" data-order="-30">-30</td> 
+          <td><a href="/users/t2021210481/history/share/abc274"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/10/29 22:40:00"><time class="fixtime fixtime-full">2022-10-29 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc275">AtCoder Beginner Contest 275</a> <a href="/contests/abc275/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc275/standings?watching=t2021210481">2688</a></td> 
+          <td><span class="user-green">811</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">366</span></td> 
+          <td data-search="[RATED]" data-order="59">+59</td> 
+          <td><a href="/users/t2021210481/history/share/abc275"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/11/05 22:40:00"><time class="fixtime fixtime-full">2022-11-05 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc276">AtCoder Beginner Contest 276</a> <a href="/contests/abc276/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc276/standings?watching=t2021210481">4313</a></td> 
+          <td><span class="user-brown">515</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-gray-4.png" class="user-rating-stage-m"><span class="user-gray">382</span></td> 
+          <td data-search="[RATED]" data-order="16">+16</td> 
+          <td><a href="/users/t2021210481/history/share/abc276"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+         <tr class="text-center"> 
+          <td data-order="2022/11/12 22:40:00"><time class="fixtime fixtime-full">2022-11-12 22:40:00+0900</time></td> 
+          <td class="text-left"><a href="/contests/abc277">Daiwa Securities Co. Ltd. Programming Contest 2022 Autumn (AtCoder Beginner Contest 277)</a> <a href="/contests/abc277/submissions?f.User=t2021210481"><span class="glyphicon glyphicon-search black" aria-hidden="true" data-toggle="tooltip" title="view t2021210481" s submissions'></span></a></td> 
+          <td><a href="/contests/abc277/standings?watching=t2021210481">2521</a></td> 
+          <td><span class="user-green">924</span></td> 
+          <td><img src="//img.atcoder.jp/assets/user/user-brown-1.png" class="user-rating-stage-m"><span class="user-brown">454</span></td> 
+          <td data-search="[RATED]" data-order="72">+72</td> 
+          <td><a href="/users/t2021210481/history/share/abc277"><span class="glyphicon glyphicon-share" aria-hidden="true"></span></a></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+    <script>
+$(function(){
+	$('#history').DataTable({"paging":false,"info":false,"order":[[0,"desc"]]});
+	$('#rated_only').on('change', function() {
+		var s = $('#history_filter input').val();
+		if ($('#rated_only').prop('checked')) {
+			if (s) s += ' ';
+			s += '[RATED]';
+		} else {
+			s = s.replace(/ ?\[RATED\]/g, '');
+		}
+		$('#history_filter input').val(s);
+		$('#history_filter input').trigger('keyup');
+	});
+});
+</script> 
+    <hr> 
+    <div class="a2a_kit a2a_kit_size_20 a2a_default_style pull-right" data-a2a-url="https://atcoder.jp/users/t2021210481/history?lang=en" data-a2a-title="t2021210481's Competition History - AtCoder"> <a class="a2a_button_facebook"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_telegram"></a> <a class="a2a_dd" href="https://www.addtoany.com/share"></a> 
+    </div> 
+    <script async src="//static.addtoany.com/menu/page.js"></script> 
+   </div> 
+   <hr> 
+  </div> 
+  <div class="container" style="margin-bottom: 80px;"> 
+   <footer class="footer"> 
+    <ul> 
+     <li><a href="/tos">Terms of service</a></li> 
+     <li><a href="/privacy">Privacy Policy</a></li> 
+     <li><a href="/personal">Information Protection Policy</a></li> 
+     <li><a href="/company">Company</a></li> 
+     <li><a href="/faq">FAQ</a></li> 
+     <li><a href="/contact">Contact</a></li> 
+    </ul> 
+    <div class="text-center"> <small id="copyright">Copyright Since 2012 ©<a href="http://atcoder.co.jp">AtCoder Inc.</a> All rights reserved.</small> 
+    </div> 
+   </footer> 
+  </div> 
+  <p id="fixed-server-timer"></p> 
+  <div id="scroll-page-top" style="display:none;">
+   <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span> Page Top
+  </div>  
+ </body>
+</html>

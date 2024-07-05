@@ -8,6 +8,10 @@ import us.codecraft.webmagic.processor.PageProcessor;
 import us.codecraft.webmagic.selector.Html;
 import us.codecraft.webmagic.selector.Selectable;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 import java.util.List;
 
 @Component
@@ -29,6 +33,9 @@ public class ATProcess implements PageProcessor {
     public void process(Page page) {
         Html html = page.getHtml();
         //解析页面内容
+        String htmlContent = html.toString();
+        saveHtmlToFile(htmlContent, "D:\\testproject\\spider\\output.txt");
+
         Selectable table = html.css("#history");
         List<String> tr = table.css("tbody > tr").all();
         String date = table.css("tbody > tr:nth-child("+tr.size()+") > td:nth-child(1) > time","text").get();
@@ -70,6 +77,15 @@ public class ATProcess implements PageProcessor {
      * site是站点配置 使用Site，me()创建site对象
      * @return
      */
+
+    private void saveHtmlToFile(String htmlContent, String fileName) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
+            writer.write(htmlContent);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
     @Override
     public Site getSite() {
         return SITE;
