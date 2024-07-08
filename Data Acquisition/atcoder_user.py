@@ -63,19 +63,21 @@ def get_atcoder_user_info(handle):
 
 user_info = {}
 # 获取所有atcoder_id
-i = 0
 handles = get_atcoder_id()
 for user in handles:
-    user_info[user] = get_atcoder_user_info(user)
+    info = get_atcoder_user_info(user)
+    if info != 'HTTP 错误: 404':
+        user_info[user] = info
 
 # 用户字典的键值
 user_nums = list(user_info.items())
+
 #将数据类型写入csv文件
 with open('./csv/at_user.csv','w',newline='',encoding='utf-8-sig') as f:
     writer = csv.writer(f,quoting=csv.QUOTE_NONE)
     # 先写入columns_name
     writer.writerow(["handle","rating","max_rating"])
-    for user in user_nums:
+    for user in user_nums[:100]:
         writer.writerow([user[1].handle,user[1].rating,user[1].max_rating])
 
 print(f"共写入了{len(user_info)}行数据")
