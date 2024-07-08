@@ -78,7 +78,7 @@ for student in students_at:
     #只在原有数据结构上添加属性，不添加成员
     if stuNo in users:
         at_id = student['atcoderId']
-        users[stuNo].at_id.append(at_id)
+        users[stuNo].at_id.append(at_id.strip('\u200b'))
 
 for user in all_user:
     #学号
@@ -97,7 +97,7 @@ with open('./csv/users.csv','w',newline='',encoding='utf-8-sig') as f:
     writer = csv.writer(f,quoting=csv.QUOTE_NONE)
     # 先写入columns_name
     writer.writerow(["stuNo","school","grade","name","class_name","cf_id","at_id"])
-    for user in user_nums[:200]:
+    for user in user_nums:
         # cf_id与at_id 进行了一些后处理,多个id用;号隔开
         writer.writerow([user[1].stuNO,user[1].school,user[1].grade,user[1].stuName,user[1].classname,str(user[1].cf_id)[1:-2].replace(" ","").replace("'",'').replace(",",";"),str(user[1].at_id)[1:-2].replace(" ","").replace("'",'').replace(",",";")])
 
