@@ -119,7 +119,7 @@ with open('./csv/at_user_contest.csv','w',newline='',encoding='utf-8-sig') as f:
     # 先写入columns_name
     writer.writerow(["handle","update_time","contest_id","contest_name","rank","new_rating","Diff"])
     for user in user_nums:
-        writer.writerow([user[1].handle,user[1].start_time,user[1].contest_id,user[1].contest_name,user[1].new_rating,user[1].Diff])
+        writer.writerow([user[1].handle,user[1].start_time,user[1].contest_id,user[1].contest_name,user[1].rank,user[1].new_rating,user[1].Diff])
 
 print(f"共写入了{len(user_nums)}行数据")
 
