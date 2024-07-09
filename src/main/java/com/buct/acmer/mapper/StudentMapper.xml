@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.buct.acmer.mapper.StudentMapper">
+<!--    <resultMap id="BaseResultMap" type="com.buct.acmer.entity">-->
+<!--        <id column="stu_cf_id" property="stuCfId" />-->
+<!--        <result column="stu_no" property="stuNo"/>-->
+<!--        <result column="stu_name" property="stuName"/>-->
+<!--        <result column="stu_class" property="stuClass"/>-->
+<!--        -->
+<!--        <association property="cfId" javaType="com.buct.acmer.entity.Codeforces"-->
+
+<!--    </resultMap>-->
+
+
+</mapper>
