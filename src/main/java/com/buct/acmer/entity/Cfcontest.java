@@ -37,7 +37,7 @@ public class Cfcontest implements Serializable {
     private String cfContestPhase;
 
     @ApiModelProperty("比赛是否冻结")
-    private Integer cfContestFrozen;
+    private String cfContestFrozen;
 
     @ApiModelProperty("比赛持续时间")
     private String cfContestDurationseconds;
