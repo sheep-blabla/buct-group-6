@@ -1,9 +1,10 @@
 spring:
   #数据库配置
+  #47.95.219.31公网地址,username:acm1
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/acm1?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true
-    username: root
+    url: jdbc:mysql://47.95.219.31:3306/acm1?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true
+    username: acm1
     password: 123456
   #若不存在表，项目启动时新建表
   sql:

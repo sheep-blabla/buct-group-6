@@ -29,7 +29,7 @@ public class Main {
                             .pathInfo(Collections.singletonMap(OutputFile.xml, projectPath+"/src/main/java/com/buct/acmer/mapper")); // 设置mapperXml生成路径
                 })
                 .strategyConfig(builder -> {
-                    builder.addInclude("cfsubmission")
+                    builder.addInclude("user")
                             .entityBuilder()
                             .enableLombok()
                             .idType(IdType.INPUT)
