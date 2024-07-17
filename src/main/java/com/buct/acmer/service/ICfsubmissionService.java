@@ -15,4 +15,5 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface ICfsubmissionService extends IService<Cfsubmission> {
     Page<Cfsubmission> selectSubmissionsByContestName(int currentPage, int pageSize, String fieldValue);
+    Page<Cfsubmission> selectAllSubmissions(int currentPage, int pageSize);
 }

@@ -28,4 +28,13 @@ public interface CfsubmissionMapper extends BaseMapper<Cfsubmission> {
     Page<Cfsubmission> selectSubmissionsByContestName(Page<Cfsubmission> page, @Param("cf_contest_name") String cf_contest_name);
 
 
+    //查找全部提交信息
+    @Select("SELECT stu.stu_name, stu.stu_no, cb.cf_submission_id, cb.cf_submission_date, " +
+            "cb.cf_problem_index,cb.cf_problem_name, cb.cf_submission_language, cf_verdict, ct.cf_contest_name " +
+            "FROM cfsubmission cb " +
+            "JOIN student stu ON stu.stu_cf_id = cb.cf_user_id " +
+            "JOIN cfcontest ct ON ct.cf_contest_id=cb.cf_contest_id ")
+    Page<Cfsubmission> selectAllSubmissions(Page<Cfsubmission> page);
+
+
 }

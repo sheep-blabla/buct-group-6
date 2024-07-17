@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.buct.acmer.entity.Cfrating;
 import com.buct.acmer.entity.Cfsubmission;
 import com.buct.acmer.entity.PublicProperty;
+import com.buct.acmer.entity.Student;
 import com.buct.acmer.mapper.CfsubmissionMapper;
 import com.buct.acmer.mapper.StudentMapper;
 import com.buct.acmer.service.impl.CfsubmissionServiceImpl;
@@ -53,4 +54,19 @@ public class CfsubmissionController {
         Page<Cfsubmission> page = cfsubmissionService.selectSubmissionsByContestName(currentPage, pageSize,fieldValue);
         return new PublicProperty(200, "success", page);
     }
+
+    @ApiOperation("查询全部提交信息")
+    @ApiImplicitParams({
+            @ApiImplicitParam(name = "currentPage",value = "当前页数",required = true),
+            @ApiImplicitParam(name = "pageSize",value = "页面大小",required = true)
+    })
+    @GetMapping("/all/{currentPage}/{pageSize}")
+    public PublicProperty<Page<Cfsubmission>> selectall(@PathVariable("currentPage") Integer currentPage,
+                                                    @PathVariable("pageSize") Integer pageSize){
+
+        Page<Cfsubmission> page = cfsubmissionService.selectAllSubmissions(currentPage, pageSize);
+        return new PublicProperty(200,"success",page);
+    }
+
+
 }

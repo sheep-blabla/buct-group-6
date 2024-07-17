@@ -29,4 +29,10 @@ public class CfsubmissionServiceImpl extends ServiceImpl<CfsubmissionMapper, Cfs
         return cfsubmissionMapper.selectSubmissionsByContestName(page, fieldValue);
     }
 
+    @Override
+    public Page<Cfsubmission> selectAllSubmissions(int currentPage, int pageSize) {
+        Page<Cfsubmission> page = new Page<>(currentPage, pageSize);
+        return cfsubmissionMapper.selectAllSubmissions(page);
+    }
+
 }
